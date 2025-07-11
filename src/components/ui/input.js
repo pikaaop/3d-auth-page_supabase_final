@@ -1,0 +1,1 @@
+export const Input = ({ className, ...props }) => <input {...props} className={`w-full px-4 py-2 ${className}`} />;
